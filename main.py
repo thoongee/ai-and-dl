@@ -89,8 +89,8 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Create dataset instances and dataloaders
-    train_data_dir = '/dataset/train.tar'
-    test_data_dir = '/dataset/test.tar'
+    train_data_dir = 'C:/Users/cjina/AI/mnist-classification/dataset/train.tar'
+    test_data_dir = 'C:/Users/cjina/AI/mnist-classification/dataset/test.tar'
     train_dataset = MNIST(data_dir=train_data_dir)
     test_dataset = MNIST(data_dir=test_data_dir)
     train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True)

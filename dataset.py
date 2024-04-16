@@ -51,8 +51,8 @@ class MNIST(Dataset):
 
 if __name__ == '__main__':
     # Define paths to the tar files for training and testing datasets
-    train_data_dir = '/content/gdrive/MyDrive/AI/train.tar'
-    test_data_dir = '/content/gdrive/MyDrive/AI/test.tar'
+    train_data_dir = 'C:/Users/cjina/AI/mnist-classification/dataset/train.tar'
+    test_data_dir = 'C:/Users/cjina/AI/mnist-classification/dataset/test.tar'
 
     # Create dataset instances
     train_dataset = MNIST(data_dir=train_data_dir)
