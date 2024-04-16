@@ -70,9 +70,7 @@
 
 ### 3-2. Loss and accuracy curves for training and test datasets (LeNet-5, CustomMLP)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c572571b-8a19-4c28-929f-c23789a58601/40006523-28f8-47b3-be0c-6b15a1ffbff6/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c572571b-8a19-4c28-929f-c23789a58601/13d8845b-34bf-41ba-a6ff-5056888ae9da/Untitled.png)
+<p align="center"><img src="https://github.com/thoongee/mnist-classification/assets/94193480/fdc43824-b446-426c-8cc3-4dab9673f6a7" width="40%">
 
 ## 4. Compare the predictive performances of LeNet-5 and CustomMLP
 
@@ -123,9 +121,7 @@
 |  | 9 | 0.0227 | 99.33% | 0.0281 | 99.17% |
 |  | 10 | 0.0216 | 99.40% | 0.0264 | 99.21% |
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c572571b-8a19-4c28-929f-c23789a58601/c389ad38-5250-42fc-b728-ecd8d7c26620/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c572571b-8a19-4c28-929f-c23789a58601/b4f823b4-4abc-4315-9919-600297e2e2f9/Untitled.png)
+<p align="center"><img src="https://github.com/thoongee/mnist-classification/assets/94193480/7a6d9223-4692-4b82-8402-562a03fe1392" width="40%">
 
 ### **초기 성능**
 
